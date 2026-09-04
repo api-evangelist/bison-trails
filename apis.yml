@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://bisontrails.co/', status: 301, note: 'declared website redirects to https://www.coinbase.com/developer-platform — a different registrable domain (bisontrails.co -> coinbase.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bison-trails.png
 name: Bison Trails
 description: 'Bison Trails was a blockchain infrastructure company founded in 2018 by Joe Lallouz and
